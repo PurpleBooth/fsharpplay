@@ -1,0 +1,8 @@
+/Users/billie/Documents/Code/fsharpplay/FizzBuzz/bin/Debug/netstandard2.0/FizzBuzz.deps.json
+/Users/billie/Documents/Code/fsharpplay/FizzBuzz/bin/Debug/netstandard2.0/FizzBuzz.dll
+/Users/billie/Documents/Code/fsharpplay/FizzBuzz/bin/Debug/netstandard2.0/FizzBuzz.pdb
+/Users/billie/Documents/Code/fsharpplay/FizzBuzz/obj/Debug/netstandard2.0/FizzBuzz.fsprojAssemblyReference.cache
+/Users/billie/Documents/Code/fsharpplay/FizzBuzz/obj/Debug/netstandard2.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/billie/Documents/Code/fsharpplay/FizzBuzz/obj/Debug/netstandard2.0/FizzBuzz.AssemblyInfo.fs
+/Users/billie/Documents/Code/fsharpplay/FizzBuzz/obj/Debug/netstandard2.0/FizzBuzz.dll
+/Users/billie/Documents/Code/fsharpplay/FizzBuzz/obj/Debug/netstandard2.0/FizzBuzz.pdb

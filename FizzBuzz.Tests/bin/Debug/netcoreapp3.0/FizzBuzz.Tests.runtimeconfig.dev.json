@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/billie/.dotnet/store/|arch|/|tfm|",
+      "/Users/billie/.nuget/packages"
+    ]
+  }
+}
