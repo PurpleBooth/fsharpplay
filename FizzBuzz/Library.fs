@@ -2,4 +2,7 @@
 
 module FizzBuzz =
     let FizzBuzz name =
-        "1"
+        if name % 3 = 0 then
+            "fizz"
+        else
+            "1"
