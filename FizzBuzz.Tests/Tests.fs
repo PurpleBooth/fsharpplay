@@ -10,3 +10,7 @@ let ``Check that by default the input number is converted into a string`` () =
 [<Fact>]
 let ``Instead of printing a number that is divisible by 3, print fizz instead`` () =
     Assert.Equal("fizz", FizzBuzz.FizzBuzz.FizzBuzz(3))
+
+[<Fact>]
+let ``Instead of printing a number that is divisible by 5, print buzz instead`` () =
+    Assert.Equal("buzz", FizzBuzz.FizzBuzz.FizzBuzz(5))
