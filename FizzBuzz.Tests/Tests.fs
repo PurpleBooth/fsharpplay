@@ -14,3 +14,7 @@ let ``Instead of printing a number that is divisible by 3, print fizz instead`` 
 [<Fact>]
 let ``Instead of printing a number that is divisible by 5, print buzz instead`` () =
     Assert.Equal("buzz", FizzBuzz.FizzBuzz.FizzBuzz(5))
+
+[<Fact>]
+let ``Instead of printing a number that is divisible by 15, print fizzbuzz instead`` () =
+    Assert.Equal("fizzbuzz", FizzBuzz.FizzBuzz.FizzBuzz(15))
