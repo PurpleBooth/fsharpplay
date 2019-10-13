@@ -1,7 +1,7 @@
 ﻿namespace FizzBuzz
 
 module FizzBuzz =
-    let FizzBuzz name =
+    let FizzBuzz(name: int) : string =
         if name % 15 = 0 then
             "fizzbuzz"
         elif name % 3 = 0 then
