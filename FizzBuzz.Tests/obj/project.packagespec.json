@@ -29,6 +29,10 @@
           "target": "Package",
           "version": "[4.7.0, )"
         },
+        "FsUnit.xUnit": {
+          "target": "Package",
+          "version": "[3.5.0, )"
+        },
         "Microsoft.NET.Test.Sdk": {
           "target": "Package",
           "version": "[16.2.0, )"
@@ -39,7 +43,7 @@
         },
         "xunit": {
           "target": "Package",
-          "version": "[2.4.0, )"
+          "version": "[2.4.1, )"
         },
         "xunit.runner.visualstudio": {
           "target": "Package",

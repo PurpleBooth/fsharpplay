@@ -1,7 +1,7 @@
 ﻿namespace FizzBuzz
 
 module FizzBuzz =
-    let FizzBuzz(name: int) : string =
+    let FizzBuzz name =
         if name % 15 = 0 then
             "fizzbuzz"
         elif name % 3 = 0 then
@@ -9,4 +9,7 @@ module FizzBuzz =
         elif name % 5 = 0 then
             "buzz"
         else
-            "1"
+            string name
+
+    let OnList (inputs:int list): string list =
+        List.map FizzBuzz inputs
