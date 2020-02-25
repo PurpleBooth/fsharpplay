@@ -281,11 +281,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/billie/Documents/Code/fsharpplay/FizzBuzz/FizzBuzz.fsproj",
+      "projectUniqueName": "/Users/billie/Documents/Code/F-FizzBuzz/FizzBuzz/FizzBuzz.fsproj",
       "projectName": "FizzBuzz",
-      "projectPath": "/Users/billie/Documents/Code/fsharpplay/FizzBuzz/FizzBuzz.fsproj",
+      "projectPath": "/Users/billie/Documents/Code/F-FizzBuzz/FizzBuzz/FizzBuzz.fsproj",
       "packagesPath": "/Users/billie/.nuget/packages/",
-      "outputPath": "/Users/billie/Documents/Code/fsharpplay/FizzBuzz/obj/",
+      "outputPath": "/Users/billie/Documents/Code/F-FizzBuzz/FizzBuzz/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/billie/.nuget/NuGet/NuGet.Config"
@@ -326,7 +326,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5503,11 +5503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/billie/Documents/Code/fsharpplay/FizzBuzz.Tests/FizzBuzz.Tests.fsproj",
+      "projectUniqueName": "/Users/billie/Documents/Code/F-FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.fsproj",
       "projectName": "FizzBuzz.Tests",
-      "projectPath": "/Users/billie/Documents/Code/fsharpplay/FizzBuzz.Tests/FizzBuzz.Tests.fsproj",
+      "projectPath": "/Users/billie/Documents/Code/F-FizzBuzz/FizzBuzz.Tests/FizzBuzz.Tests.fsproj",
       "packagesPath": "/Users/billie/.nuget/packages/",
-      "outputPath": "/Users/billie/Documents/Code/fsharpplay/FizzBuzz.Tests/obj/",
+      "outputPath": "/Users/billie/Documents/Code/F-FizzBuzz/FizzBuzz.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/billie/.nuget/NuGet/NuGet.Config"
@@ -5521,8 +5521,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/billie/Documents/Code/fsharpplay/FizzBuzz/FizzBuzz.fsproj": {
-              "projectPath": "/Users/billie/Documents/Code/fsharpplay/FizzBuzz/FizzBuzz.fsproj"
+            "/Users/billie/Documents/Code/F-FizzBuzz/FizzBuzz/FizzBuzz.fsproj": {
+              "projectPath": "/Users/billie/Documents/Code/F-FizzBuzz/FizzBuzz/FizzBuzz.fsproj"
             }
           }
         }
@@ -5566,12 +5566,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }
